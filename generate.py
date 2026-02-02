@@ -47,6 +47,7 @@ with open("README.md", mode="w") as readme:
             data["homepage"] is not None
             and len(data["homepage"])
             and not data["archived"]
+            and data["full_name"].startswith("klemek/")
         ):
             created_at = data["created_at"].split("-")[0]
             readme.write(
