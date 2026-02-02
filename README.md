@@ -9,14 +9,14 @@
 
 | Project | Description | Created |
 |---|---|---|
-| **[coverify](https://klemek.github.io/coverify/)** <sub> ([repo](https://github.com/klemek/coverify)) </sub> | None | 2025 |
+| **[coverify](http://cover.klemek.fr/)** <sub> ([repo](https://github.com/klemek/coverify)) </sub> | Create album covers from mundane photos | 2025 |
 | **[legume](http://legume.klemek.fr/)** <sub> ([repo](https://github.com/klemek/legume)) </sub> | 🧅 VJ Table Generator 🥕 | 2025 |
 | **[forge-steel](https://youtu.be/HgErrasSs-w)** <sub> ([repo](https://github.com/klemek/forge-steel)) </sub> | Discover an engine where user-defined fragment shaders collide to produce stunning visuals. | 2025 |
 | **[file-whizz](http://file.klemek.fr/)** <sub> ([repo](https://github.com/klemek/file-whizz)) </sub> | No need for cloud when you have wings | 2025 |
-| **[tape-record](https://klemek.github.io/tape-record/)** <sub> ([repo](https://github.com/klemek/tape-record)) </sub> | Precisely launch track to record on tape | 2024 |
+| **[tape-record](http://tape.klemek.fr/)** <sub> ([repo](https://github.com/klemek/tape-record)) </sub> | Precisely launch track to record on tape | 2024 |
 | **[startle-machine](http://prank.klemek.fr/)** <sub> ([repo](https://github.com/klemek/startle-machine)) </sub> | Generates silence occasionally broken up by random sound effects | 2024 |
 | **[meeting-roulette](http://meeting.klemek.fr/)** <sub> ([repo](https://github.com/klemek/meeting-roulette)) </sub> | Spin your meetings | 2024 |
-| **[memory-helper-v2](https://klemek.github.io/memory-helper-v2/)** <sub> ([repo](https://github.com/klemek/memory-helper-v2)) </sub> | Make your own quizzes from online CSV | 2023 |
+| **[memory-helper-v2](http://memory.klemek.fr/)** <sub> ([repo](https://github.com/klemek/memory-helper-v2)) </sub> | Make your own quizzes from online CSV | 2023 |
 | **[dicosemiopsy-qcm](https://klemek.github.io/dicosemiopsy-qcm/)** <sub> ([repo](https://github.com/klemek/dicosemiopsy-qcm)) </sub> | Free alternative of the Dicosemiopsy app | 2023 |
 | **[roster-grid](https://klemek.github.io/roster-grid/)** <sub> ([repo](https://github.com/klemek/roster-grid)) </sub> | A smash-bros roster grid template in Vue | 2022 |
 | **[cpg-calendar](https://klemek.github.io/cpg-calendar/)** <sub> ([repo](https://github.com/klemek/cpg-calendar)) </sub> | Gaumont-Pathé movie theaters calendar | 2022 |
